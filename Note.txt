@@ -1,0 +1,24 @@
+JSON dell'elenco delle persone
+
+[
+    {
+        "id": "1",
+        "name": "Alex"
+    },
+    {
+        "id": "2",
+        "name": "Adriana"
+    },
+    {
+        "id": "3",
+        "name": "Emiliano"
+    },
+    {
+        "id": "4",
+        "name": "Dario"
+    }
+]
+
+Sito che ritorna il JSON (creato con JSON Keeper)
+    https://jsonkeeper.com/b/DSB8
+
