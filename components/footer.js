@@ -3,7 +3,7 @@ export default function Footer() {
         <footer style={{ marginLeft: "130px" }}>
             <p>
                 <small>
-                    Realized by Alex Falco's
+                    Realized by Alex Falco{"'"}s
                 </small>
             </p>
         </footer>
